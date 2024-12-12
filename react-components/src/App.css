@@ -15,8 +15,9 @@ footer {
     background-color: black;
     height: 10vh;
     color: white;
+    margin: 0;
 }
 
 p {
-    padding: 3em  2em ;
+    padding: 10px 10px
 }
